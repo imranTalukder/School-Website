@@ -1,0 +1,197 @@
+.backG {
+    background-color:#E6E6FA;
+
+}
+.topBar {
+    margin-top: 0px;
+	width: 100%;
+	height: 160px;
+	background-color: #191970;
+}
+.logoImg {
+    margin-top: 20px;
+	margin-left: 20px;
+	height: 100px;
+	width: 100px;
+}
+
+.schoolName {
+    text-align: cenetr;
+	color: white;
+}
+.menuList {
+    background-color: #191970;
+}
+.nav-item {
+   height: 30px;   
+   margin-left: 20px;
+   background-color: #8B0000
+   
+}
+.nav-link {
+    color: white;
+}
+footer {
+	background-color: navy;
+}
+        
+#justpushtobottom {
+    height: 82vh;
+}
+.middlePlace {
+    margin-top: 0px;
+	margin-left: 30px;
+	margin-right: 35px;
+	
+}
+.president {
+	text-align: justify;
+	text-justify: inter-word;
+	line-height: 1.2; 
+	font-weight: normal; 
+	margin-left: 10px;
+	font-size: 14px;
+	font-weight: 300;
+}
+.notice {
+    border-style: outset;
+}
+.noticTextView {
+    text-align: center;
+}
+.visitors {
+    background-color: white;
+	border-style: outset;
+	
+}
+.visitorsTable th, td {
+    color: black;
+	text-align: justify;
+	text-justify: inter-word;
+	line-height: 1.2; 
+	font-size: 14px;
+	font-weight: 500;
+}
+.usefulLinks {
+    background-color: white;
+	margin-top: 0px;
+	margin-left: 30px;
+	margin-right: 35px;
+	color: red;
+}
+
+.row {
+    background-color: white;
+	margin-left: 20%;
+	margin-right: 22%;
+
+}
+
+.teachersImage {
+    width: 15%;
+    height: 100px;
+    float: left;
+    padding: 5px;
+    border-right-style: outset;
+    border-width: 2px;
+}
+
+.teachersDetails {
+    margin-left: 5%;
+	margin-top: 5px;
+	color: black;
+	text-align: justify;
+	text-justify: inter-word;
+	line-height: 1.2; 
+	font-size: 14px;
+	font-weight: 500;
+	border-radius: 15px;
+	
+}
+
+.admissionForm  {
+    background-color: white;
+	margin-top: 40px;
+    margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 10px;
+	border: 2px solid red;
+	border-color: #B0E0E6;
+	
+}
+.download {
+    text-align: right;
+	margin-right: 5%;
+    padding-top: 5px;
+}
+input {
+	border: none;
+	border-bottom: 2px solid black;
+	border-bottom-style: dotted;
+	background-color: white;
+}
+
+.pp{
+
+	border: 1px solid black;
+	
+	background-color: white;
+}
+
+hr {
+    border-color: #E0FFFF;
+	border: 2px solid red;
+	border-color: #E0FFFF;
+}
+.imgSlide {
+    margin-bottom: 30px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.videos {
+    margin-left: 20%;
+	margin-right: 20%;
+	background-color: white;
+	padding:5px;
+	margin-bottom: 40px;
+}
+.hrr {
+    border-color: #008080;
+}
+.libraryMiddle {
+    margin-left: 10%;
+	margin-right: 10%;
+}
+.libraryHour {
+    background-color: white;
+	width: 100%;
+	height: 100%;
+	padding-top: 0px;
+	text-align: left;
+}
+.pdfSpace {
+    margin-left: 10%;
+	margin-right: 10%;
+	background-color: white;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom:100px;
+	
+}
+.noticeUp {
+    margin-left: 20px;
+	margin-right: 10%;
+	background-color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
